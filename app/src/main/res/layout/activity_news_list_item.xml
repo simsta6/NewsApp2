@@ -42,7 +42,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginEnd="10dp"
                 android:layout_toEndOf="@+id/image_IV"
-                android:text="@string/title"
+                android:text="Kabanga"
                 android:textSize="24sp" />
 
             <TextView
@@ -57,7 +57,7 @@
                 android:layout_marginEnd="10dp"
                 android:layout_marginBottom="10dp"
                 android:layout_toEndOf="@+id/image_IV"
-                android:text="@string/_2017_october"
+                android:text="2017_october"
                 android:textAlignment="center"
                 android:textSize="16sp" />
 
